@@ -2,8 +2,6 @@ class tools:
   def ginit(self):
     import colorama
     import os
-    global colorama
-    global os
   def __init__(self):
     self.ginit()
   def __init_subclass__(self):
