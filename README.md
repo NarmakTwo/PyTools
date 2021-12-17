@@ -6,6 +6,7 @@ Just copy [this code](https://gist.github.com/NarmakTwo/45bafafb1f683d7fa37d0473
 import PyTools
 tools = PyTools.tools()
 ```
+
 ## List of Functions
 ### tools.file
 scan()<br>
@@ -30,3 +31,5 @@ pcw()<br>
 newline()<br>
 clear()<br>
 wue()<br>
+
+Look [here](https://github.com/NarmakTwo/PyTools/wiki) to find out how to use the functions.
